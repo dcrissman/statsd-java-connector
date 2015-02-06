@@ -1,3 +1,11 @@
+/*
+ * Copyright 2015 Red Hat, Inc.
+ * Author: Dennis Crissman
+ *
+ * Licensed under the GNU Lesser General Public License, version 3 or
+ * any later version.
+ */
+
 package test;
 
 import com.netflix.hystrix.HystrixCircuitBreaker;
