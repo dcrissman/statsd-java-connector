@@ -1,0 +1,100 @@
+Metric{config=MonitorConfig{name=loadedClassCount, tags=class=ClassLoadingMXBean,GAUGE, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=1064}, 
+
+Metric{config=MonitorConfig{name=totalLoadedClassCount, tags=class=ClassLoadingMXBean,COUNTER, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=1065}, 
+
+Metric{config=MonitorConfig{name=unloadedClassCount, tags=class=ClassLoadingMXBean,COUNTER, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=0}
+{config=MonitorConfig{name=totalCompilationTime, tags=class=CompilationMXBean,COUNTER, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=123}, 
+
+Metric{config=MonitorConfig{name=collectionCount, tags=class=GarbageCollectorMXBean,COUNTER,id=PS Scavenge, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=0}, 
+
+Metric{config=MonitorConfig{name=collectionTime, tags=class=GarbageCollectorMXBean,COUNTER,id=PS Scavenge, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=0}, 
+
+Metric{config=MonitorConfig{name=collectionCount, tags=class=GarbageCollectorMXBean,COUNTER,id=PS MarkSweep, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=0}, 
+
+Metric{config=MonitorConfig{name=collectionTime, tags=class=GarbageCollectorMXBean,COUNTER,id=PS MarkSweep, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=0}, 
+
+Metric{config=MonitorConfig{name=committedUsage, tags=class=MemoryPoolMXBean,GAUGE,id=Code Cache,memtype=NON_HEAP, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=2555904}, 
+
+Metric{config=MonitorConfig{name=initUsage, tags=class=MemoryPoolMXBean,GAUGE,id=Code Cache,memtype=NON_HEAP, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=2555904}, 
+
+Metric{config=MonitorConfig{name=actualUsage, tags=class=MemoryPoolMXBean,GAUGE,id=Code Cache,memtype=NON_HEAP, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=462400}, 
+
+Metric{config=MonitorConfig{name=maxUsage, tags=class=MemoryPoolMXBean,GAUGE,id=Code Cache,memtype=NON_HEAP, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=50331648}, 
+
+Metric{config=MonitorConfig{name=committedUsage, tags=class=MemoryPoolMXBean,GAUGE,id=PS Eden Space,memtype=HEAP, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=32505856}, 
+
+Metric{config=MonitorConfig{name=initUsage, tags=class=MemoryPoolMXBean,GAUGE,id=PS Eden Space,memtype=HEAP, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=32505856}, 
+
+Metric{config=MonitorConfig{name=actualUsage, tags=class=MemoryPoolMXBean,GAUGE,id=PS Eden Space,memtype=HEAP, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=9776448}, 
+
+Metric{config=MonitorConfig{name=maxUsage, tags=class=MemoryPoolMXBean,GAUGE,id=PS Eden Space,memtype=HEAP, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=677380096}, 
+
+Metric{config=MonitorConfig{name=committedUsage, tags=class=MemoryPoolMXBean,GAUGE,id=PS Survivor Space,memtype=HEAP, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=5242880}, 
+
+Metric{config=MonitorConfig{name=initUsage, tags=class=MemoryPoolMXBean,GAUGE,id=PS Survivor Space,memtype=HEAP, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=5242880}, 
+
+Metric{config=MonitorConfig{name=actualUsage, tags=class=MemoryPoolMXBean,GAUGE,id=PS Survivor Space,memtype=HEAP, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=0}, 
+
+Metric{config=MonitorConfig{name=maxUsage, tags=class=MemoryPoolMXBean,GAUGE,id=PS Survivor Space,memtype=HEAP, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=5242880}, 
+
+Metric{config=MonitorConfig{name=committedUsage, tags=class=MemoryPoolMXBean,GAUGE,id=PS Old Gen,memtype=HEAP, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=85983232}, 
+
+Metric{config=MonitorConfig{name=initUsage, tags=class=MemoryPoolMXBean,GAUGE,id=PS Old Gen,memtype=HEAP, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=85983232}, 
+
+Metric{config=MonitorConfig{name=actualUsage, tags=class=MemoryPoolMXBean,GAUGE,id=PS Old Gen,memtype=HEAP, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=0}, 
+
+Metric{config=MonitorConfig{name=maxUsage, tags=class=MemoryPoolMXBean,GAUGE,id=PS Old Gen,memtype=HEAP, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=1375731712}, 
+
+Metric{config=MonitorConfig{name=committedUsage, tags=class=MemoryPoolMXBean,GAUGE,id=PS Perm Gen,memtype=NON_HEAP, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=22020096}, 
+
+Metric{config=MonitorConfig{name=initUsage, tags=class=MemoryPoolMXBean,GAUGE,id=PS Perm Gen,memtype=NON_HEAP, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=22020096}, 
+
+Metric{config=MonitorConfig{name=actualUsage, tags=class=MemoryPoolMXBean,GAUGE,id=PS Perm Gen,memtype=NON_HEAP, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=6737928}, 
+
+Metric{config=MonitorConfig{name=maxUsage, tags=class=MemoryPoolMXBean,GAUGE,id=PS Perm Gen,memtype=NON_HEAP, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=174063616}, 
+
+Metric{config=MonitorConfig{name=availableProcessors, tags=class=OperatingSystemMXBean,GAUGE, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=4}, 
+
+Metric{config=MonitorConfig{name=systemLoadAverage, tags=class=OperatingSystemMXBean,GAUGE, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=1.45}, 
+
+Metric{config=MonitorConfig{name=maxFileDescriptorCount, tags=class=OperatingSystemMXBean,GAUGE, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=4096}, 
+
+Metric{config=MonitorConfig{name=openFileDescriptorCount, tags=class=OperatingSystemMXBean,GAUGE, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=18}, 
+
+Metric{config=MonitorConfig{name=committedVirtualMemorySize, tags=class=OperatingSystemMXBean,GAUGE, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=3804635136}, 
+
+Metric{config=MonitorConfig{name=totalPhysicalMemorySize, tags=class=OperatingSystemMXBean,GAUGE, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=8250380288}, 
+
+Metric{config=MonitorConfig{name=freePhysicalMemorySize, tags=class=OperatingSystemMXBean,GAUGE, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=2734501888}, 
+
+Metric{config=MonitorConfig{name=totalSwapSpaceSize, tags=class=OperatingSystemMXBean,GAUGE, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=4026527744}, 
+
+Metric{config=MonitorConfig{name=freeSwapSpaceSize, tags=class=OperatingSystemMXBean,GAUGE, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=4026527744}, 
+
+Metric{config=MonitorConfig{name=processCpuLoad, tags=class=OperatingSystemMXBean,GAUGE, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=3.2902482847161516E-5}, 
+
+Metric{config=MonitorConfig{name=systemCpuLoad, tags=class=OperatingSystemMXBean,GAUGE, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=0.09360685816329427}, 
+
+Metric{config=MonitorConfig{name=daemonThreadCount, tags=class=ThreadMXBean,GAUGE, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=5}, 
+
+Metric{config=MonitorConfig{name=totalStartedThreadCount, tags=class=ThreadMXBean,COUNTER, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=6}, 
+
+Metric{config=MonitorConfig{name=threadBlockedCount, tags=class=ThreadMXBean,COUNTER, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=6}, 
+
+Metric{config=MonitorConfig{name=threadBlockedTime, tags=class=ThreadMXBean,COUNTER, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=0}, 
+
+Metric{config=MonitorConfig{name=threadWaitedCount, tags=class=ThreadMXBean,COUNTER, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=3}, 
+
+Metric{config=MonitorConfig{name=threadWaitedTime, tags=class=ThreadMXBean,COUNTER, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=0}, 
+
+Metric{config=MonitorConfig{name=threadCount, tags=class=ThreadMXBean,state=NEW,GAUGE, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=0}, 
+
+Metric{config=MonitorConfig{name=threadCount, tags=class=ThreadMXBean,state=RUNNABLE,GAUGE, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=7}, 
+
+Metric{config=MonitorConfig{name=threadCount, tags=class=ThreadMXBean,state=BLOCKED,GAUGE, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=0}, 
+
+Metric{config=MonitorConfig{name=threadCount, tags=class=ThreadMXBean,state=WAITING,GAUGE, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=2}, 
+
+Metric{config=MonitorConfig{name=threadCount, tags=class=ThreadMXBean,state=TIMED_WAITING,GAUGE, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=0}, 
+
+Metric{config=MonitorConfig{name=threadCount, tags=class=ThreadMXBean,state=TERMINATED,GAUGE, policy=DefaultPublishingPolicy}, timestamp=1423056844720, value=0}
